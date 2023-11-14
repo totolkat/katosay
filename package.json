@@ -1,8 +1,8 @@
 {
-  "name": "fetcher",
+  "name": "katosay",
   "version": "1.0.0",
-  "description": "Fetcher made in JavaScript",
-  "main": "fetch.js",
+  "description": "A JS fork from catsay.",
+  "main": "katosay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +11,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "colors": "^1.4.0",
-    "linux-sys-user": "^1.1.9",
-    "physical-cpu-count": "^2.0.0",
-    "sys": "^0.0.1",
-    "sys-dec": "^0.0.4"
+    "colors": "^1.4.0"
   }
 }
